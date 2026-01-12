@@ -1,7 +1,9 @@
 # 👋 Olá, eu sou o Leandro Cardinho
 
 💻 **Analista de Testes (QA)** | Certificação **CTFL** | **Qualidade de Software** 
+
 🔎 **Automação de Testes** | **Selenium** | **API (Postman, Rest Assured)**  
+
 🚀 **Java** | **JavaScript** | **GitHub** | **BDD (Cucumber)**
 
 ---
