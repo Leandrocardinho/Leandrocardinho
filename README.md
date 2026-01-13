@@ -31,7 +31,7 @@
 ### Testes de API
 
 - [**Petstore API Tests**](https://github.com/Leandrocardinho/petstore142-API-Tests)  
-  Automação de testes da API Swagger Petstore usando Java, Rest Assured e testes parametrizados.
+  Automação de testes da API Swagger Petstore usando Java, Rest Assured e testes parametrizados e testes **Data-Driven (DDT)** com arquivos CSV/JSON.
 
 - [**Postman Workspace: FTS142 Test API Petstore**](https://www.postman.com/leandrocardinho-9339848/workspace/fts142-test-api-petstore)  
   Coleção pública de testes API no Postman para a API Petstore.
