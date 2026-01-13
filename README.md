@@ -1,6 +1,6 @@
 # 👋 Olá, eu sou o Leandro Cardinho
 
-💻 **Analista de Testes (QA)** | Certificação **CTFL** | **Qualidade de Software** 
+💻 **Analista de Testes (QA)** | Certificação **CTFL** | **Qualidade de Software**
 
 🔎 **Automação de Testes** | **Selenium** | **API (Postman, Rest Assured)**  
 
@@ -19,7 +19,7 @@
 </div>
 
 - **Linguagens:** Java  
-- **Testes:** Selenium, JUnit, TestNG, Rest Assured  
+- **Testes:** Selenium, JUnit, TestNG, Rest Assured, Postman  
 - **Versionamento:** Git & GitHub  
 - **Integração Contínua:** GitHub Actions  
 - **Metodologias Ágeis:** Scrum, Kanban  
@@ -27,6 +27,16 @@
 ---
 
 ## 📌 Projetos em Destaque
+
+### Testes de API
+
+- [**Petstore API Tests**](https://github.com/Leandrocardinho/petstore142-API-Tests)  
+  Automação de testes da API Swagger Petstore usando Java, Rest Assured e testes parametrizados.
+
+- [**Postman Workspace: FTS142 Test API Petstore**](https://www.postman.com/leandrocardinho-9339848/workspace/fts142-test-api-petstore)  
+  Coleção pública de testes API no Postman para a API Petstore.
+
+### Testes Web
 
 - [**Automation SauceDemo**](https://github.com/Leandrocardinho/test_web_sauce_demo)  
   Automação de login, adicionar produto ao carrinho e checkout no site **SauceDemo**.
@@ -38,14 +48,14 @@
 
 ## 🌐 Conecte-se comigo
 
-https://www.linkedin.com/in/leandro-macedo-cardinho?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=ios_app
+[LinkedIn](https://www.linkedin.com/in/leandro-macedo-cardinho?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=ios_app) | [GitHub](https://github.com/Leandrocardinho) | [Postman](https://www.postman.com/leandrocardinho-9339848/workspace/fts142-test-api-petstore)
 
 ---
 
 ## ⚡ Um pouco mais sobre mim
 
-- Sempre aprendendo novas ferramentas e técnicas de automação
-- Gosto de trabalhar em equipe e compartilhar conhecimento
+- Sempre aprendendo novas ferramentas e técnicas de automação  
+- Gosto de trabalhar em equipe e compartilhar conhecimento  
 - Curioso por novas tecnologias e apaixonado por desafios
 
 ---
