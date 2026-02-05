@@ -1,63 +1,38 @@
-# 👋 Olá, eu sou o Leandro Cardinho
+# Olá, eu sou o Leandro Cardinho 👋
 
-💻 **Analista de Testes (QA)** | Certificação **CTFL** | **Qualidade de Software**
-
-🔎 **Automação de Testes** | **Selenium** | **API (Postman, Rest Assured)**  
-
-🚀 **Java** | **JavaScript** | **GitHub** | **BDD (Cucumber)**
+### 🚀 Analista de Testes (QA) | Especialista em Automação
+Atualmente focado em garantir a qualidade de software através de ciclos de testes eficientes e automação robusta.
 
 ---
 
-## 🛠️ Tecnologias & Ferramentas
+### 🛠️ Tecnologias & Ferramentas
 
-<div style="display: flex; gap: 10px;">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="40" height="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/selenium/selenium-original.svg" width="40" height="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="40" height="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="40" height="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/maven/maven-original.svg" width="40" height="40"/>
-</div>
-
-- **Linguagens:** Java  
-- **Testes:** Selenium, JUnit, TestNG, Rest Assured, Postman  
-- **Versionamento:** Git & GitHub  
-- **Integração Contínua:** GitHub Actions  
-- **Metodologias Ágeis:** Scrum, Kanban  
+| Categoria | Ferramentas |
+| :--- | :--- |
+| **Linguagens** | ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=flat-square&logo=openjdk&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%2332333e.svg?style=flat-square&logo=javascript&logoColor=%23f7df1e) |
+| **Automação Web** | ![Selenium](https://img.shields.io/badge/-selenium-%43B02A?style=flat-square&logo=selenium&logoColor=white) ![Cypress](https://img.shields.io/badge/-cypress-%23E5E5E5?style=flat-square&logo=cypress&logoColor=31EBEB) |
+| **Automação API** | ![Rest Assured](https://img.shields.io/badge/-Rest%20Assured-orange?style=flat-square) ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=flat-square&logo=postman&logoColor=white) |
+| **Outros** | ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=flat-square&logo=git&logoColor=white) ![GitHub Actions](https://img.shields.io/badge/github%20actions-%232671E5.svg?style=flat-square&logo=githubactions&logoColor=white) ![Cucumber](https://img.shields.io/badge/-Cucumber-23D333?style=flat-square&logo=cucumber&logoColor=white) |
 
 ---
 
-## 📌 Projetos em Destaque
-
-### Testes de API
-
-- [**Petstore API Tests**](https://github.com/Leandrocardinho/petstore142-API-Tests)  
-  Automação de testes da API Swagger Petstore usando Java, Rest Assured e testes parametrizados e testes **Data-Driven (DDT)** com arquivos CSV/JSON.
-
-- [**Postman Workspace: FTS142 Test API Petstore**](https://www.postman.com/leandrocardinho-9339848/workspace/fts142-test-api-petstore)  
-  Coleção pública de testes API no Postman para a API Petstore.
-
-### Testes Web
-
-- [**Automation SauceDemo**](https://github.com/Leandrocardinho/test_web_sauce_demo)  
-  Automação de login, adicionar produto ao carrinho e checkout no site **SauceDemo**.
-
-- [**Automation HerokuApp**](https://github.com/Leandrocardinho/Heroku_Login)  
-  Automação de testes web utilizando **Page Object Pattern** no site **HerokuApp**.
+### 📊 Minhas Estatísticas
+<p align="left">
+  <img src="https://github-readme-stats.vercel.app/api?username=Leandrocardinho&show_icons=true&theme=dark&include_all_commits=true&count_private=true" alt="Estatísticas do GitHub" height="150" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Leandrocardinho&layout=compact&theme=dark" alt="Linguagens mais usadas" height="150" />
+</p>
 
 ---
 
-## 🌐 Conecte-se comigo
+### 📌 Projetos em Destaque
 
-[LinkedIn](https://www.linkedin.com/in/leandro-macedo-cardinho?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=ios_app) | [GitHub](https://github.com/Leandrocardinho) | [Postman](https://www.postman.com/leandrocardinho-9339848/workspace/fts142-test-api-petstore)
-
+* **[BlazeDemo Automation](https://github.com/Leandrocardinho/blazeDemo142_):** Automação de testes web para o cenário de compra de passagens, focado em boas práticas de escrita de scripts.
+* **[Petstore API Tests](https://github.com/Leandrocardinho/petstore142-API-Tests):** Automação de API com Rest Assured e Teste Data-Driven (DDT).
+* **[SauceDemo Web Tests](https://github.com/Leandrocardinho/saucedemo_cucumber_tests):** Automação web utilizando Selenium, Java e BDD (Cucumber).
 ---
 
-## ⚡ Um pouco mais sobre mim
+### 📫 Conecte-se comigo
+[![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](www.linkedin.com/in/leandro-macedo-cardinho)
+[![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Leandrocardinho)
 
-- Sempre aprendendo novas ferramentas e técnicas de automação  
-- Gosto de trabalhar em equipe e compartilhar conhecimento  
-- Curioso por novas tecnologias e apaixonado por desafios
-
----
-
-> *“Qualidade é o que nos diferencia!”*
+*"Qualidade não é um ato, é um hábito."*
