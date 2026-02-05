@@ -9,20 +9,15 @@ Atualmente focado em garantir a qualidade de software através de ciclos de test
 
 | Categoria | Ferramentas |
 | :--- | :--- |
-| **Linguagens** | ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=flat-square&logo=openjdk&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%2332333e.svg?style=flat-square&logo=javascript&logoColor=%23f7df1e) |
-| **Automação Web** | ![Selenium](https://img.shields.io/badge/-selenium-%43B02A?style=flat-square&logo=selenium&logoColor=white) ![Cypress](https://img.shields.io/badge/-cypress-%23E5E5E5?style=flat-square&logo=cypress&logoColor=31EBEB) |
+| **Linguagens** | ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=flat-square&logo=openjdk&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%2332333e.svg?style=flat-square&logo=javascript&logoColor=%23f7df1e) ![Python](https://img.shields.io/badge/python-3670A0?style=flat-square&logo=python&logoColor=ffdd54) |
+| **Automação Web** | ![Selenium](https://img.shields.io/badge/-selenium-%43B02A?style=flat-square&logo=selenium&logoColor=white) |
+| **Automação Mobile** | ![Appium](https://img.shields.io/badge/-Appium-6222C2?style=flat-square&logo=appium&logoColor=white) |
 | **Automação API** | ![Rest Assured](https://img.shields.io/badge/-Rest%20Assured-orange?style=flat-square) ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=flat-square&logo=postman&logoColor=white) |
 | **Outros** | ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=flat-square&logo=git&logoColor=white) ![GitHub Actions](https://img.shields.io/badge/github%20actions-%232671E5.svg?style=flat-square&logo=githubactions&logoColor=white) ![Cucumber](https://img.shields.io/badge/-Cucumber-23D333?style=flat-square&logo=cucumber&logoColor=white) |
 
 ---
 
-### 📊 Minhas Estatísticas
-<p align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=Leandrocardinho&show_icons=true&theme=dark&include_all_commits=true&count_private=true" alt="Estatísticas do GitHub" height="150" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Leandrocardinho&layout=compact&theme=dark" alt="Linguagens mais usadas" height="150" />
-</p>
-
----
+### 📊 ---
 
 ### 📌 Projetos em Destaque
 
