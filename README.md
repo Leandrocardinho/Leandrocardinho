@@ -1,4 +1,4 @@
-# Olá, eu sou o Leandro Cardinho 👋
+# Olá, eu sou o Leandro Cardinho 💻
 
 ### 🚀 Analista de Testes (QA) | Automação
 Atualmente focado em garantir a qualidade de software através de ciclos de testes eficientes e automação robusta.
